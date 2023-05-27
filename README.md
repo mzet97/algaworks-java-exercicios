@@ -1,2 +1,1 @@
-# algaworks-java-exercicios
-Exercícios de java do curso algaworks
+Exercícios de java do curso algaworks Java e Orientação a Objetos
