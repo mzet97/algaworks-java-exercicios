@@ -1,0 +1,8 @@
+package Principal;
+
+public class Pessoa {
+	
+	String nome;
+	
+	Cachorro cachorro;
+}
